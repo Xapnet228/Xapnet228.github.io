@@ -29,7 +29,7 @@
     </div>
 
     <audio id="myAudio" controls autoplay loop style="display: none;">
-        <source src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" type="audio/mpeg">
+        <source src="https://https://www.myinstants.com/en/instant/loud-ahhh-60206/" type="audio/mpeg">
         Browser-ul tău nu suportă elementul audio.
     </audio>
 
